@@ -153,11 +153,11 @@
 
 Это удобно, когда вам необходимо задать значение одной из этих переменных на базе уже присвоенных значений.
 
-`let items = getItems(),
-    goSportsTeam = true,
-    dragonball,
-    length,
-    i;`
+`let items = getItems(),`
+`goSportsTeam = true,`
+`dragonball,`
+`length,`
+`i;`
 
 # 10. Условные выражения и равенства #
 
